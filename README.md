@@ -1,7 +1,9 @@
-# Aplikasi-Login
-Sebuah aplikasi dengan fitur login
+# Setup Environment
+pip install -r requirements.txt
 
-Alur fitur login:
-1. Memasukkan email dan password.
-2. Menvalidasi masukan.
-3. Menampilkan halaman home.
+# Setup Environment - Shell/Terminal
+mkdir submission
+cd submission
+pip install -r requirements.txt
+pip install jupyter notebook
+jupyter notebook notebook.ipynb
